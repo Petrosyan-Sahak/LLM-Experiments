@@ -1,3 +1,7 @@
 openai
 tiktoken
 dotenv
+anthropic
+google
+langchain_openai
+litellm
