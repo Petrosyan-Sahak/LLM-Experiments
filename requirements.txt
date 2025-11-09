@@ -6,3 +6,4 @@ google
 langchain_openai
 litellm
 gradio
+sqlite3
